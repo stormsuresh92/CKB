@@ -1,0 +1,384 @@
+Molecular Profile,Protein Effect,Treatment Approaches
+BRAF A320T,no effect - predicted,
+BRAF A404Cfs*9,loss of function - predicted,
+BRAF A598S,unknown,
+BRAF A598T,loss of function - predicted,
+BRAF A598V,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF A598X,unknown,
+BRAF A598_T599insARC,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF A598_T599insV,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF A712T,no effect - predicted,
+BRAF A728V,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF A762E,unknown,
+BRAF A762V,no effect - predicted,
+BRAF A81_D380del,gain of function - predicted,
+BRAF A81_M438del,gain of function - predicted,
+BRAF act mut,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF amp,no effect,
+BRAF V600X BRAF amp NRAS Q61K,,
+BRAF V600E BRAF amp,,
+BRAF class 1,gain of function,
+BRAF class 2,gain of function,
+BRAF class 3,loss of function,
+BRAF D287H,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D287H NRAS Q61K,,
+BRAF D380H,no effect - predicted,
+BRAF D448Y,unknown,
+BRAF D449Y,unknown,
+BRAF D587A,unknown,
+BRAF D587E,unknown,
+BRAF D587G,unknown,
+BRAF D594A,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D594E,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D594G,unknown,
+BRAF D594G NRAS G12D,,
+BRAF D594H,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D594N,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D594V,loss of function,
+BRAF D594X,unknown,
+BRAF D594Y,unknown,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF D594_T599dup,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF dec exp,no effect,
+BRAF E228V,no effect - predicted,
+BRAF E275K,unknown,
+BRAF E451K,gain of function - predicted,
+BRAF E501G,loss of function,
+BRAF E501K,unknown,
+BRAF E586K,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF E586X,unknown,
+BRAF E611D,unknown,
+BRAF E648Q,loss of function - predicted,
+BRAF E695K,unknown,
+BRAF F247L,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF F259L,no effect - predicted,
+BRAF F294L,no effect - predicted,
+BRAF F468C,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF F595L,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF F595S,unknown,
+BRAF F595X,unknown,
+BRAF fusion,unknown,
+BRAF G104E,no effect - predicted,
+BRAF G203_G393del,gain of function - predicted,
+BRAF G258V,unknown,
+BRAF G421V,no effect - predicted,
+BRAF G464E,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G464R,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G464V,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G464X,unknown,
+BRAF G466A,unknown,
+BRAF G466E,unknown,
+BRAF G466E HRAS Q61K,,
+BRAF G466R,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G466V,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G466V NRAS Q61K,,
+BRAF G466X,unknown,
+BRAF G469A,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469del,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469E,unknown,
+BRAF G469L,unknown,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469R,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469R NRAS Q61K,,
+BRAF G469S,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469V,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G469V NRAS Q61K,,
+BRAF G469X,unknown,
+BRAF G478C,loss of function - predicted,
+BRAF G563D,loss of function - predicted,
+BRAF G593D,no effect - predicted,
+BRAF G596C,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G596D,unknown,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G596fs,loss of function - predicted,
+BRAF G596R,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G596R PIK3CA E545K,,
+BRAF G596R NRAS Q61K,,
+BRAF G596S,unknown,
+BRAF G596V,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF G596V NRAS G13R,,
+BRAF G596X,unknown,
+BRAF G606A,unknown,
+BRAF G606E,unknown,
+BRAF G606V,unknown,
+BRAF G606W,loss of function - predicted,
+BRAF G615R,loss of function - predicted,
+BRAF G69S,unknown,
+BRAF H269Y,unknown,
+BRAF H568D,loss of function - predicted,
+BRAF H574N,no effect - predicted,
+BRAF H574Q,gain of function,
+BRAF H585Y,loss of function - predicted,
+BRAF H608R,unknown,
+BRAF H725Y,unknown,
+BRAF I463S,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF I463T,unknown,
+BRAF I463X,unknown,
+BRAF I582M,unknown,
+BRAF I592M,unknown,
+BRAF I592V,unknown,
+BRAF inact mut,loss of function,
+BRAF K205Q,no effect - predicted,
+BRAF K483E,unknown,
+BRAF K483M,unknown,
+BRAF K499E,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF K499N,unknown,
+BRAF K601del,unknown,
+BRAF K601E,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF S363F BRAF K601E,,
+BRAF K601E MAP2K1 V211D,,
+BRAF K601I,unknown,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF K601N,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF K601Q,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF K601T,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF K601X,unknown,
+BRAF K601_S602delinsNT,unknown,
+BRAF K698R,no effect - predicted,
+BRAF L245F,unknown,
+BRAF L485F,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L485S,gain of function - predicted,
+BRAF L485W,unknown,
+BRAF L485X,unknown,
+BRAF L485Y,unknown,
+BRAF L485_P490del,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L485_P490delinsF,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L485_P490delinsY,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L505H,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L505H BRAF V600E,,
+BRAF L514V,gain of function - predicted,
+BRAF L514V BRAF V600E,,
+BRAF L584F,unknown,
+BRAF L597P,unknown,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L597Q,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L597R,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L597S,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF R239Q BRAF L597S,,
+BRAF L597V,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF L597V NRAS Q61K,,
+BRAF L597X,unknown,
+BRAF L613F,unknown,
+BRAF L618F,loss of function - predicted,
+BRAF L64I,no effect - predicted,
+BRAF L678I,loss of function - predicted,
+BRAF L711F,no effect - predicted,
+BRAF loss,loss of function,
+BRAF loss NRAS Q61K,,
+BRAF M517I,loss of function - predicted,
+BRAF M53I,unknown,
+BRAF mutant,unknown,
+BRAF mut PIK3CA mut,,
+BRAF mut TP53 wild-type,,
+BRAF mut NRAS mut,,
+BRAF mut NRAS wild-type,,
+BRAF mut PTEN loss,,
+BRAF mut PTEN mut,,
+BRAF mut PTEN wild-type,,
+BRAF mut PTEN inact mut,,
+BRAF mut RB1 loss,,
+BRAF mut TP53 mut,,
+BRAF mut PIK3CA wild-type,,
+BRAF mut IDH1 wild-type,,
+BRAF N20T,unknown,
+BRAF N486D,unknown,
+BRAF N486_A489delinsK,unknown,
+BRAF N486_L495del,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF N486_P490del,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF N486_T491delinsK,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor
+BRAF N49I,no effect - predicted,
+BRAF N581D,no effect - predicted,
+BRAF N581I,unknown,
+BRAF N581K,loss of function - predicted,
+BRAF N581S,unknown,
+BRAF N581T,no effect - predicted,
+BRAF N581X,unknown,
+BRAF N581Y,gain of function - predicted,
+BRAF over exp,no effect,
+BRAF V600E BRAF over exp,,
+BRAF P141L,no effect - predicted,
+BRAF P162S,no effect - predicted,
+BRAF P341S,no effect - predicted,
+BRAF P348T,no effect - predicted,
+BRAF P367L,unknown,
+BRAF P367R,gain of function,
+BRAF P367S,unknown,
+BRAF P367X,unknown,
+BRAF P403fs,loss of function - predicted,
+BRAF P407L,no effect - predicted,
+BRAF P453T,unknown,
+BRAF P490_Q494del,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF P676S,no effect - predicted,
+BRAF P731S,unknown,
+BRAF P731T,unknown,
+BRAF Q257H,unknown,
+BRAF Q257R,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF Q257X,unknown,
+BRAF Q262R,unknown,
+BRAF Q609E,unknown,
+BRAF Q609H,no effect - predicted,
+BRAF Q609L,unknown,
+BRAF R188T,no effect - predicted,
+BRAF R239Q,unknown,
+BRAF R271H,no effect - predicted,
+BRAF R347*,loss of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF R389C,no effect - predicted,
+BRAF R444W,unknown,
+BRAF R462I,unknown,
+BRAF R462K,no effect - predicted,
+BRAF R462X,unknown,
+BRAF R509G,no effect - predicted,
+BRAF R509H,loss of function,
+BRAF R603*,loss of function - predicted,
+BRAF R671Q,no effect - predicted,
+BRAF R719S,no effect - predicted,
+BRAF rearrange,unknown,
+BRAF S363F,unknown,
+BRAF S364L,no effect - predicted,
+BRAF S36A,unknown,
+BRAF S419Y,no effect - predicted,
+BRAF S465A,no effect - predicted,
+BRAF S465D,no effect - predicted,
+BRAF S465E,loss of function - predicted,
+BRAF S467A,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF S467L,unknown,
+BRAF S467X,unknown,
+BRAF S602F,no effect - predicted,
+BRAF S602T,unknown,
+BRAF S605A,loss of function - predicted,
+BRAF S605E,loss of function - predicted,
+BRAF S605F,unknown,
+BRAF S605G,loss of function - predicted,
+BRAF S605N,unknown,
+BRAF S607F,unknown,
+BRAF S607P,no effect - predicted,
+BRAF S637*,loss of function - predicted,
+BRAF T119S,unknown,
+BRAF T119S BRAF V600E,,
+BRAF T241P,unknown,
+BRAF T241X,unknown,
+BRAF T310I,gain of function - predicted,
+BRAF T401I,no effect - predicted,
+BRAF T470K,no effect - predicted,
+BRAF T488_P492del,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T488_Q493delinsK,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T529I,unknown,
+BRAF T529I BRAF V600E,,
+BRAF T529M,unknown,
+BRAF T529M BRAF V600E,,
+BRAF T529N,unknown,
+BRAF T529N BRAF V600E,,
+BRAF T599A,loss of function,
+BRAF T599dup,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T599I,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T599K,gain of function - predicted,
+BRAF T599R,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T599X,unknown,
+BRAF T599_V600insEAT,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T599_V600insETT,gain of function - predicted,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF T599_V600insS,unknown,
+BRAF T599_V600insTT,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V169_D380del,gain of function - predicted,
+BRAF V169_G327del,gain of function - predicted,
+BRAF V226L,unknown,
+BRAF V459L,unknown,
+BRAF V471F,loss of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V471I,unknown,
+BRAF V47_D380del,gain of function - predicted,
+BRAF V47_D380del BRAF V600E,,
+BRAF V47_G327del,gain of function - predicted,
+BRAF V47_G393del,gain of function - predicted,
+BRAF V47_M438del,gain of function - predicted,
+BRAF V487_P492delinsA,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V504I,no effect - predicted,
+BRAF V504_R506dup,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V590G,unknown,
+BRAF V590I,unknown,
+BRAF V600A,no effect - predicted,
+BRAF V600D,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600D PTEN loss,,
+BRAF V600D NRAS dec exp,,
+BRAF V600delinsYM,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V600dup,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V600E,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600E NRAS Q61K,,
+BRAF V600E MAP2K1 C121S,,
+BRAF V600E PIK3CA P449T,,
+BRAF V600E NRAS G12V,,
+BRAF V600E MAP2K1 L115P,,
+BRAF V600E MAP2K1 I103N,,
+BRAF V600E MAP2K1 V211D,,
+BRAF V600E MAP2K1 P387S NRAS A146T,,
+BRAF V600E NRAS A146T,,
+BRAF V600E MAP2K1 P387S NRAS Q61K,,
+BRAF V600E MAP2K1 K59del,,
+BRAF V600E MAP2K1 P387S NRAS Q61K NRAS A146T,,
+BRAF V600E MAP2K1 Q56P,,
+BRAF V600E NRAS Q61K NRAS A146T,,
+BRAF V600E PTEN loss,,
+BRAF V600E CDKN2A mut,,
+BRAF V600E MAP2K1 H119P,,
+BRAF V600E MAP2K1 V60E,,
+BRAF V600E MAP2K1 P124S,,
+BRAF V600E MAP2K1 G128V,,
+BRAF V600E MAP2K1 P162S,,
+BRAF V600E PTEN wild-type,,
+BRAF V600E MAP2K1 K57E,,
+BRAF V600E MAP2K1 P124Q,,
+BRAF V600E PIK3CA H1047R,,
+BRAF V600E PIK3CA P449T TP53 R273H,,
+BRAF V600E PIK3CA H1047R TP53 wild-type,,
+BRAF V600E PTEN loss TP53 wild-type,,
+BRAF V600E PIK3CA H1047K,,
+BRAF V600E PIK3CA mut,,
+BRAF V600E PTEN mut,,
+BRAF V600E TP53 Q192K,,
+BRAF V600E MAP2K1 I111N,,
+BRAF V600E MAP2K1 E203K,,
+BRAF V600E MAP2K1 P124L,,
+BRAF V600E MAP2K1 K57T,,
+BRAF V600E NRAS G13R,,
+BRAF V600E NRAS amp,,
+BRAF V600E NRAS over exp,,
+BRAF V600E PTEN Y27C,,
+BRAF V600E PTEN del,,
+BRAF V600E MAP2K1 I99T,,
+BRAF V600E MAP2K1 I99G,,
+BRAF V600E MAP2K1 I99M,,
+BRAF V600E BRAF V600M,,
+BRAF V600E CDKN2A R80*,,
+BRAF V600E TP53 C176R,,
+BRAF V600E MAP2K1 Q56P NRAS Q61R,,
+BRAF V600E FGFR2 A553D,,
+BRAF V600E PIK3CA E545K,,
+BRAF V600E/K,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600E/K PIK3CA wild-type,,
+BRAF V600E/K PTEN loss,,
+BRAF V600fs,loss of function - predicted,
+BRAF V600G,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600K,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600K NRAS Q61K,,
+BRAF V600K MAP2K1 P124Q,,
+BRAF V600K MAP2K1 P124L,,
+BRAF V600L,unknown,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600M,gain of function - predicted,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600Q,unknown,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600R,gain of function,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600X,unknown,BRAF Inhibitor  MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  RAF Inhibitor (Pan)
+BRAF V600X PIK3CA H1047X,,
+BRAF V600X MAP2K1 V60E NRAS T58I NRAS Q61R,,
+BRAF V600X PTEN H93D,,
+BRAF V600X PTEN neg,,
+BRAF V600X PIK3CA H1047R PTEN Y68fs,,
+BRAF V600_K601delinsE,gain of function,MEK inhibitor (Pan)  MEK1 Inhibitor  MEK2 Inhibitor  LY3009120
+BRAF V639I,no effect - predicted,
+BRAF V681I,no effect - predicted,
+BRAF W450*,loss of function - predicted,
+BRAF W531C,unknown,
+BRAF W604del,unknown,
+BRAF W604G,unknown,
+BRAF W604R,unknown,
+BRAF W619R,unknown,
+BRAF wild-type,no effect,
+BRAF wild-type NRAS mut,,
+BRAF wild-type KIT pos,,
+BRAF wild-type NRAS wild-type,,
+BRAF wild-type NRAS Q61K,,
+BRAF Y472C,unknown,
+BRAF Y538H,unknown,
+BRAF Y656D,loss of function - predicted,
